@@ -40,7 +40,7 @@ Help users connect with educational resources
 Demonstrate WordPress development skills
 
 Home Page
-<img width="1500" height="7155" alt="screencapture-localhost-Acadmey-word-wordpress-2026-04-06-12_39_16" src="https://github.com/user-attachments/assets/70275470-709e-4b8a-99b5-74c039e37d92" />
+<img width="1500" height="8155" alt="screencapture-localhost-Acadmey-word-wordpress-2026-04-06-12_39_16" src="https://github.com/user-attachments/assets/70275470-709e-4b8a-99b5-74c039e37d92" />
 
 About Page
 <img width="1920" height="4632" alt="screencapture-localhost-Acadmey-word-wordpress-about-2026-04-06-12_50_40" src="https://github.com/user-attachments/assets/6cc3b20f-4f8a-4ad9-8bbb-f143fa7f5269" />
